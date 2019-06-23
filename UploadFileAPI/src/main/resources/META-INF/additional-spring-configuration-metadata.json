@@ -1,0 +1,117 @@
+{"properties": [
+  {
+    "name": "page.config.default-page-number",
+    "type": "java.lang.String",
+    "description": "A description for 'page.config.default-page-number'"
+  },
+  {
+    "name": "page.config.default-page-size",
+    "type": "java.lang.String",
+    "description": "A description for 'page.config.default-page-size'"
+  },
+  {
+    "name": "page.config.max-page-size",
+    "type": "java.lang.String",
+    "description": "A description for 'page.config.max-page-size'"
+  },
+  {
+    "name": "datasearch.config.uom-user-me-url",
+    "type": "java.lang.String",
+    "description": "A description for 'datasearch.config.uom-user-me-url'"
+  },
+  {
+    "name": "datasearch.config.api-gateway-url",
+    "type": "java.lang.String",
+    "description": "A description for 'datasearch.config.api-gateway-url'"
+  },
+  {
+    "name": "spark.cassandra.connection.host",
+    "type": "java.lang.String",
+    "description": "A description for 'spark.cassandra.connection.host'"
+  },
+  {
+    "name": "spark.cassandra.connection.port",
+    "type": "java.lang.String",
+    "description": "A description for 'spark.cassandra.connection.port'"
+  },
+  {
+    "name": "spark.master",
+    "type": "java.lang.String",
+    "description": "A description for 'spark.master'"
+  },
+  {
+    "name": "spring.mvc.servlet.path",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.mvc.servlet.path'"
+  },
+  {
+    "name": "data-search",
+    "type": "java.lang.String",
+    "description": "A description for 'data-search'"
+  },
+  {
+    "name": "data-search",
+    "type": "java.lang.String",
+    "description": "A description for 'data-search'"
+  },
+  {
+    "name": "data.search.dicom.enabled",
+    "type": "java.lang.String",
+    "description": "A description for 'data.search.dicom.enabled'"
+  },
+  {
+    "name": "data.search.attribute.enabled",
+    "type": "java.lang.String",
+    "description": "A description for 'data.search.attribute.enabled'"
+  },
+  {
+    "name": "spark.cassandra.auth.username",
+    "type": "java.lang.String",
+    "description": "A description for 'spark.cassandra.auth.username'"
+  },
+  {
+    "name": "spark.cassandra.auth.password",
+    "type": "java.lang.String",
+    "description": "A description for 'spark.cassandra.auth.password'"
+  },
+  {
+    "name": "s3.extract.bucketname",
+    "type": "java.lang.String",
+    "description": "A description for 's3.extract.bucketname'"
+  },
+  {
+    "name": "aws.key.profile",
+    "type": "java.lang.String",
+    "description": "A description for 'aws.key.profile'"
+  },
+  {
+    "name": "cassandra.table.name",
+    "type": "java.lang.String",
+    "description": "A description for 'cassandra.table.name'"
+  },
+  {
+    "name": "cassandra.keyspace.name",
+    "type": "java.lang.String",
+    "description": "A description for 'cassandra.keyspace.name'"
+  },
+  {
+    "name": "aws.access.key.id",
+    "type": "java.lang.String",
+    "description": "A description for 'aws.access.key.id'"
+  },
+  {
+    "name": "aws.access.key.secret",
+    "type": "java.lang.String",
+    "description": "A description for 'aws.access.key.secret'"
+  },
+  {
+    "name": "aws.s3.bucket.name",
+    "type": "java.lang.String",
+    "description": "A description for 'aws.s3.bucket.name'"
+  },
+  {
+    "name": "aws.s3.bucket.region",
+    "type": "java.lang.String",
+    "description": "A description for 'aws.s3.bucket.region'"
+  }
+]}
